@@ -1,17 +1,75 @@
+<h1 align="center">News Blog</h1>
+
+<br/>
+
+<div align="center"> 
+  <img src="https://image.shutterstock.com/image-vector/news-vector-banner-design-concept-260nw-519192289.jpg" alt="chat" width="100%" />
+</div>
+
+<br/>
+
 <p align="center">
-  <h1>Vite + React + TailwindCss + JIT</h1>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-<p>
-<img src="https://img.shields.io/github/stars/vivekascoder/vite-react-tailwind-jit?style=for-the-badge">
-<img src="https://img.shields.io/github/forks/vivekascoder/vite-react-tailwind-jit?style=for-the-badge">
-</p>
+<br/>
 
-This template allows you to quickly scaffold a React project with React Router, TailwindCss with JIT Compiler and vite as a bundler. We use Vite because it's much faster than webpack. We use tailwindcss JIT compiler because it makes tailwindcss build time negligible and offers more features that you can check here [Tailwind JIT](https://tailwindcss.com/docs/just-in-time-mode). Talking about Vite, you can find more information here [Vite](https://vitejs.dev/).
+## Introdução
 
-## How to Install.
-First of all make sure you have yarn installed. If you have it you can create a new repo with this template and can clone it.
+O News Blog é um projeto com o intuito de criar um blog com notícias.
 
-![Use this template](https://i.imgur.com/Gtt5CPx.png)
+<br/>
 
-After clonning it, you can simply go to the folder and type `yarn` to install the dependencies.
+## 📁 Acesso ao projeto
+
+Você pode baixar o projeto, via github, ou acessa-lo pelo a seguir link para testá-lo.
+<br/>
+link aqui
+<br/>
+
+## 📼 Instalação
+
+- `Instalação de dependências`: Para instalar as dependências, use o comando a seguir:
+
+```bash
+npm install
+```
+
+ou, se preferir use o yarn:
+
+```bash
+yarn
+```
+
+## 💡 Inicialização
+
+- `Inicialização do projeto`: Para iniciar o projeto, use o comando a seguir:
+
+```bash
+npm start
+```
+
+ou, se preferir, inicie com o yarn:
+
+```bash
+yarn start
+```
+
+<br/>
+
+## 🔨 Requisitos do projeto
+
+- `Requisito 1` `Filtragem de notícias`: Apresentar um campo de pesquisa, onde a pessoa poderá pesquisar pelo título da notícia que deseja.
+- `Requisito 2` `Consumo de API`: Buscar por notícias para renderizar na tela por meio de uma API.
+- `Requisito 3` `Responsividade`: A aplicação deve se comportar em todos os tipos de tela.
+
+<br/>
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+- `Typescript`
+- `React`
+- `Tailwind css`
+- `DDD - Domain Driven Design`
+- `React Router`
+- `Vite`
