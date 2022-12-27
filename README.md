@@ -57,15 +57,15 @@ yarn start
 
 <br/>
 
-## 🔨 Requisitos do projeto
+## 🔨 Project requirements & features
 
-- `Requisito 1` `Filtragem de notícias`: Apresentar um campo de pesquisa, onde a pessoa poderá pesquisar pelo título da notícia que deseja.
+- `Requirement 1` `Title of the requirement`: Here you can talk more about why you decided to add this feature on the project.
 - `Requisito 2` `Consumo de API`: Buscar por notícias para renderizar na tela por meio de uma API.
 - `Requisito 3` `Responsividade`: A aplicação deve se comportar em todos os tipos de tela.
 
 <br/>
 
-## ✔️ Técnicas e tecnologias utilizadas
+## ✔️ Techniques and technologies
 
 - `Typescript`
 - `React`
