@@ -1,9 +1,9 @@
-<h1 align="center">Code Blog</h1>
+<h1 align="center">Template with Vite, React, Ant Design, Router and JIT</h1>
 
 <br/>
 
 <div align="center"> 
-  <img src="https://www.umov.me/wp-content/uploads/2022/08/low-code-blog.png" alt="chat" width="100%" />
+  <img src="https://cdn.sanity.io/images/599r6htc/localized/aa86e965428b06f49ba2c6188545587948a409ae-2120x1000.png?w=1200&q=70&fit=max&auto=format" alt="chat" width="100%" />
 </div>
 
 <br/>
@@ -14,45 +14,45 @@
 
 <br/>
 
-## Introdução
+## Introduction
 
-O News Blog é um projeto com o intuito de criar um blog com notícias.
+Here comes the introduction of your project :).
 
 <br/>
 
-## 📁 Acesso ao projeto
+## 📁 Access to the project
 
-Você pode baixar o projeto, via github, ou acessa-lo pelo a seguir link para testá-lo.
+You cand download it, or access by the link below to test it out.
 <br/>
-link aqui
+Your link here
 <br/>
 
-## 📼 Instalação
+## 📼 Installation
 
-- `Instalação de dependências`: Para instalar as dependências, use o comando a seguir:
+- `Dependencie's installation`: To install the dependencies of the project, use the command below:
 
 ```bash
 npm install
 ```
 
-ou, se preferir use o yarn:
+or, if you do prefer yarn:
 
 ```bash
 yarn
 ```
 
-## 💡 Inicialização
+## 💡 Startup
 
-- `Inicialização do projeto`: Para iniciar o projeto, use o comando a seguir:
+- `Project startup`: To start the project, use the command below:
 
 ```bash
-npm start
+npm run dev
 ```
 
-ou, se preferir, inicie com o yarn:
+or, if you do prefer yarn:
 
 ```bash
-yarn start
+yarn dev
 ```
 
 <br/>
