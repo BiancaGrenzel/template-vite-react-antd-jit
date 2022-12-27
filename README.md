@@ -3,7 +3,7 @@
 <br/>
 
 <div align="center"> 
-  <img src="https://image.shutterstock.com/image-vector/news-vector-banner-design-concept-260nw-519192289.jpg" alt="chat" width="100%" />
+  <img src="https://www.umov.me/wp-content/uploads/2022/08/low-code-blog.png" alt="chat" width="100%" />
 </div>
 
 <br/>
