@@ -1,4 +1,4 @@
-<h1 align="center">News Blog</h1>
+<h1 align="center">Code Blog</h1>
 
 <br/>
 
