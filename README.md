@@ -22,7 +22,7 @@ Here comes the introduction of your project :).
 
 ## 📁 Access to the project
 
-You cand download it, or access by the link below to test it out.
+You can download it, or access by the link below to test it out.
 <br/>
 Your link here
 <br/>
