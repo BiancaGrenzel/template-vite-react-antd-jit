@@ -60,8 +60,6 @@ yarn dev
 ## 🔨 Project requirements & features
 
 - `Requirement 1` `Title of the requirement`: Here you can talk more about why you decided to add this feature on the project.
-- `Requisito 2` `Consumo de API`: Buscar por notícias para renderizar na tela por meio de uma API.
-- `Requisito 3` `Responsividade`: A aplicação deve se comportar em todos os tipos de tela.
 
 <br/>
 
